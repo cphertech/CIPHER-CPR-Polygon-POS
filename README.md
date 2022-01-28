@@ -1,2 +1,2 @@
-# cipherpolygon
+# CIPHER (CPR)
 
